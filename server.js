@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const request = require('request');
 
-const apiKey = '85c0433f76e47f5dfc0634e62b5a88f6';
+const apiKey = '**************';
 const app = express();
 
 app.set('view engine', 'ejs');
